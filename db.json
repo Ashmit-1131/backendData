@@ -1,4 +1,4 @@
-[
+  { "products":[
     {
       "_id": "639dd4ad525862d5b2149cee",
       "category": "skin care",
@@ -5589,5 +5589,7 @@
       "updatedAt": "2022-12-19T04:38:14.989Z",
       "__v": 0
     }
+
   ]
+}
   
